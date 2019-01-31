@@ -73,8 +73,9 @@ This event aims at ...
 
 The first part between `+++` is the header. The image can be commented out if
 needed (the default image is currently a brown rectangle stored in
-`static/images`). Note that the **date** will not be shown, but is used to sort
-out posts in the main home page, most recent first.
+`static/images`). Excellent free, high-resolution images can be found at
+[Pexels](https://www.pexels.com/). Note that the **date** will not be shown, but
+is used to sort out posts in the main home page, most recent first.
 
 
 Posts accept standard `markdown` and `html`.

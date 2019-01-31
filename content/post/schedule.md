@@ -1,7 +1,7 @@
 +++
 title = 'Schedule'
 slug = 'schedule'
-image = 'images/pic03.jpg'
+image = 'images/calendar.jpg'
 description = ''
 disableComments = true
 +++

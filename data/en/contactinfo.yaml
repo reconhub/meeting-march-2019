@@ -1,8 +1,10 @@
 contactformaction: 'post-action'
 
 address:
+- line: 'Wellcome Trust'
 - line: '215 Euston Rd, Bloomsbury'
-- line: 'London NW1 2BE, UK'
+- line: 'London NW1 2BE'
+- line: 'United Kingdom'
 
 phone: '...'
 

@@ -1,31 +1,30 @@
 +++
 title = 'Our sponsors'
 slug = 'sponsors'
-image = 'images/pic03.jpg'
+image = 'images/hands.jpg'
 description = 'The groups who made this meeting possible'
 disableComments = true
 +++
 
 
 
-## The organising committee
 
-### Groups
+## UK Public Health Rapid Support Team
 
-#### UK Public Health Rapid Support Team
-
-#### R Epidemics Consortium (RECON)
-
-#### Wellcome Trust
+Add description from RST people (ask Pat / Thom).
 
 
+## R Epidemics Consortium (RECON)
 
-### Organisers
+The R Epidemics Consortium ([RECON](https://www.repidemicsconsortium.org/xs)) is
+international not-for-profit, non-governmental organisation gathering experts in
+data science, modelling methodology, public health, and software development to
+create the next generation of analytics tools for informing the response to
+disease outbreaks, health emergencies and humanitarian crises, using the R
+software and other free, open-source resources.
 
-- Amrish Baidjoe (Imperial College London / RECON/ EAN): president 
 
-- Thibaut Jombart (London School of Hygiene and Tropical Medicine / UK PHRST /
-  RECON): Associate Professor in Outbreak Analytics at LSHTM, core member of the
-  UK PHRST, and president of RECON.
 
-- add yourself here (affiliation): blurb
+## Wellcome Trust
+
+Add description from WT people (ask Josie)

@@ -7,4 +7,6 @@ disableComments = true
 date = '2019-01-28'
 +++
 
+This event aims at ...
+
 

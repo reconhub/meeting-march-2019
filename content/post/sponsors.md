@@ -1,6 +1,6 @@
 +++
-title = 'Our sponsors'
-slug = 'sponsors'
+title = 'Oganising partners'
+slug = 'partners'
 image = 'images/hands.jpg'
 description = 'The groups who made this meeting possible'
 disableComments = true
@@ -11,20 +11,23 @@ disableComments = true
 
 ## UK Public Health Rapid Support Team
 
-Add description from RST people (ask Pat / Thom).
+Through the UK Public Health Rapid Support Team (UK-PHRST), the UK has the capacity to respond rapidly to disease outbreaks in low- and middle-income countries around the world and conduct operational research into epidemic preparedness, playing an important role in global health security. The team also works to help countries to build their own capacity for an improved and rapid national response to outbreaks.
+
+The UK-PHRST is funded by UK aid from the Department of Health and Social Care and is a partnership between the London School of Hygiene & Tropical Medicine (LSHTM) and Public Health England (PHE). University of Oxford and King’s College London (KCL) are academic partners. The team’s Director is Professor Daniel Bausch.
 
 
 ## R Epidemics Consortium (RECON)
 
 The R Epidemics Consortium ([RECON](https://www.repidemicsconsortium.org/xs)) is
 international not-for-profit, non-governmental organisation gathering experts in
-data science, modelling methodology, public health, and software development to
-create the next generation of analytics tools for informing the response to
+data science, modelling methodology, public health, operational epidemiology and software development to create the next generation of analytics tools for informing the response to
 disease outbreaks, health emergencies and humanitarian crises, using the R
 software and other free, open-source resources.
 
-
-
 ## Wellcome Trust
 
-Add description from WT people (ask Josie)
+
+
+## The LSHTM-EDK 
+
+The LSHTM Emergency and Epidemic Data Kit (EDK) programme aims to develop, evaluate and deploy open software and hardware systems for electronic data collection and rapid mapping in outbreak situations. With support from the UK Department of Health and Social Care via the National Institutes of Health Research (PR-OD-1017-20001) the EDK team is currently providing the République Démocratique du Congo Ministère de la Santé and World Health Organization with software and analysis to support the ongoing VSV-ZEBOV trials. 

@@ -13,7 +13,7 @@ disableComments = true
 
 ### Main organisers
 
-* **Amrish Baidjoe** (Imperial College London / RECON/ EAN): Research Associate in
+* **Amrish Baidjoe** (Imperial College London / RECON / EAN): Research Associate in
   health emergencies operational support and capacity building, president of the
   [EAN](https://epietalumni.net/) and vice-president of
   [RECON](https://www.repidemicsconsortium.org/).

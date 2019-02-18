@@ -1,6 +1,6 @@
 +++
 title = 'Oganising partners'
-slug = 'Sponsers'
+slug = 'Sponsors'
 image = 'images/hands.jpg'
 description = 'The groups who made this meeting possible'
 disableComments = true
@@ -13,7 +13,7 @@ disableComments = true
 
 Through the UK Public Health Rapid Support Team (UK-PHRST), the UK has the capacity to respond rapidly to disease outbreaks in low- and middle-income countries around the world and conduct operational research into epidemic preparedness, playing an important role in global health security. The team also works to help countries to build their own capacity for an improved and rapid national response to outbreaks.
 
-The UK-PHRST is funded by UK aid from the Department of Health and Social Care and is a partnership between the London School of Hygiene & Tropical Medicine (LSHTM) and Public Health England (PHE). University of Oxford and King’s College London (KCL) are academic partners. The team’s Director is Professor Daniel Bausch.
+The UK-PHRST is funded by UK aid from the Department of Health and Social Care and is a partnership between the London School of Hygiene & Tropical Medicine (LSHTM) and Public Health England (PHE). University of Oxford and King’s College London (KCL) are academic partners. The team’s Director is Professor Daniel Bausch. The UK-PHRST supports this meeting financially and logistically. 
 
 
 ## R Epidemics Consortium (RECON)
@@ -30,7 +30,7 @@ The LSHTM Emergency and Epidemic Data Kit (EDK) programme aims to develop, evalu
 
 ## Wellcome Trust
 
-test
+The Wellcome Trust is a biomedical research charity based in London, United Kingdom. It was established in 1936 with legacies from the pharmaceutical magnate Sir Henry Wellcome to fund research to improve human and animal health. The aim of the Trust is to "achieve extraordinary improvements in health by supporting the brightest minds", and in addition to funding biomedical research it supports the public understanding of science. Wellcome Trust, will host this meeting in London and provides financial support.
 
 
 

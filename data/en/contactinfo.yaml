@@ -6,7 +6,7 @@ address:
 - line: 'London NW1 2BE'
 - line: 'United Kingdom'
 
-phone: '...'
+#phone: '...'
 
 email: 'amrish.baidjoe@gmail.com'
 email: 'Elizabeth.McFarland@phe.gov.uk'

@@ -24,10 +24,12 @@ data science, modelling methodology, public health, operational epidemiology and
 disease outbreaks, health emergencies and humanitarian crises, using the R
 software and other free, open-source resources.
 
+## The LSHTM-EDK 
+
+The LSHTM Emergency and Epidemic Data Kit (EDK) programme aims to develop, evaluate and deploy open software and hardware systems for electronic data collection and rapid mapping in outbreak situations. With support from the UK Department of Health and Social Care via the National Institutes of Health Research (PR-OD-1017-20001) the EDK team is currently providing the République Démocratique du Congo Ministère de la Santé and World Health Organization with software and analysis to support the ongoing VSV-ZEBOV trials. 
+
 ## Wellcome Trust
 
 
 
-## The LSHTM-EDK 
 
-The LSHTM Emergency and Epidemic Data Kit (EDK) programme aims to develop, evaluate and deploy open software and hardware systems for electronic data collection and rapid mapping in outbreak situations. With support from the UK Department of Health and Social Care via the National Institutes of Health Research (PR-OD-1017-20001) the EDK team is currently providing the République Démocratique du Congo Ministère de la Santé and World Health Organization with software and analysis to support the ongoing VSV-ZEBOV trials. 

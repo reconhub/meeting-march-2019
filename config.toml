@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Health Emergency Analytics"
+title = "Health Emergency Analytics Workshop March 2019"
 baseURL = "http://localhost:1313/"
 theme = "../.."
 googleanalytics = ""

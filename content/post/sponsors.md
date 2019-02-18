@@ -1,6 +1,6 @@
 +++
 title = 'Oganising partners'
-slug = 'partners'
+slug = 'Sponsers'
 image = 'images/hands.jpg'
 description = 'The groups who made this meeting possible'
 disableComments = true
@@ -30,6 +30,7 @@ The LSHTM Emergency and Epidemic Data Kit (EDK) programme aims to develop, evalu
 
 ## Wellcome Trust
 
+test
 
 
 

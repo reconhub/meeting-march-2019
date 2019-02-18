@@ -11,7 +11,7 @@ The main aim of this three-day workshop will be to accelerate and expand
 processes relating to the development and dissemination of data collection and
 analysis resources to support outbreak response and humanitarian health
 emergency activities in low and middle income countries (LMICs), with particular
-attention to capacity strengthening and development of new research partnerships
+attention to capacity strengthening and development of new operational research partnerships
 across different institutions and countries. It will provide an opportunity for
 participants to share views and experience in operational data collection and
 analytics, and foster partnerships between respective organisations with a

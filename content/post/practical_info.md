@@ -10,7 +10,7 @@ disableComments = true
 ## Dates
 
 The meeting will start on the 20 March 2019 morning, and end on the 22 March
-2019 evening.
+2019 late afternoon.
 
 
 ## Venue

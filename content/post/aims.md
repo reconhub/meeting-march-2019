@@ -1,7 +1,7 @@
 +++
 title = 'Our aims'
 slug = 'aims'
-image = 'images/aims.jpg'
+# image = 'images/aims.jpg'
 description = 'Aims of the meeting: what we plan on discussing and achieving, and why.'
 disableComments = true
 date = '2019-01-28'

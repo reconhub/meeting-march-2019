@@ -1,5 +1,5 @@
 +++
-title = 'Oganising partners'
+title = 'Organising partners'
 slug = 'Sponsors'
 image = 'images/hands.jpg'
 description = 'The groups who made this meeting possible'

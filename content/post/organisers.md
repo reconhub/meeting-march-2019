@@ -36,7 +36,7 @@ disableComments = true
   for the FIEBRE study, PI of Mos-Def the and academic lead of the LSHTM Open Research Kits
   programme
   
-* **Olivier le Polain** (UK-PHRST / PHE) Senior Epidemiologist and Deputy Director of Research
+* **Olivier le Polain** (UK-PHRST / PHE) Senior Epidemiologist and Deputy Director of Response
   for the [UK-PHRST](https://www.gov.uk/government/collections/uk-public-health-rapid-support-team-uk-phrst/).
 
 

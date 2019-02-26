@@ -1,7 +1,7 @@
 +++
-title = 'Organising partners'
+title = 'Supporting partners'
 slug = 'Sponsors'
-image = 'images/hands.jpg'
+image = 'images/partners.jpg'
 description = 'The groups who made this meeting possible'
 disableComments = true
 +++

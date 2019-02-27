@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://datameeting2019.netlify.com/post/aims/</loc>
+    <loc>/post/aims/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datameeting2019.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datameeting2019.netlify.com/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://datameeting2019.netlify.com/post/organisers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://datameeting2019.netlify.com/post/</loc>
+    <loc>/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datameeting2019.netlify.com/post/practical_info/</loc>
+    <loc>/post/organisers/</loc>
   </url>
   
   <url>
-    <loc>https://datameeting2019.netlify.com/post/schedule/</loc>
+    <loc>/post/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datameeting2019.netlify.com/post/sponsors/</loc>
+    <loc>/post/practical_info/</loc>
   </url>
   
   <url>
-    <loc>https://datameeting2019.netlify.com/tags/</loc>
+    <loc>/post/schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

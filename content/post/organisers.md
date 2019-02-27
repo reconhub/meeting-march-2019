@@ -1,7 +1,7 @@
 +++
 title = 'Organisers'
 slug = 'organisers'
-image = 'images/people_sunset.jpg'
+image = 'images/disease.jpg'
 description = 'The people behind this event'
 disableComments = true
 +++

@@ -41,10 +41,21 @@ disableComments = true
 
 
 
-### Facilitators
+### Financial support was given by
+
+**Wellcome Trust**
+
+**The UK-Public Health Rapid Support Team**
+
+**Amrish Baidjoe and Thibaut Jombart** are financially supported by the National Institute for Health Research - Health Protection Research Unit for Modelling Methodology. 
+
+**Thibaut Jombart** is funded by the Global Challenges Research Fund (GCRF) project ‘RECAP – research capacity building and knowledge generation to support preparedness and response to humanitarian crises and epidemics’ managed through RCUK and ESRC (ES/P010873/1). 
+
+**Patrick Keating, Olivier Le Polain and Thibaut Jombart** are financially supported by the UK Public Health Rapid Support Team, which is funded by the United Kingdom Department of Health and Social Care. 
+
+**Hannah Brindle and Chrissy Roberts** are both financially supported by the NIHR
 
 
-- TBD
 
 
 
